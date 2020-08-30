@@ -56,5 +56,4 @@ https://drive.google.com/file/d/1UQDzdVogI57NwUL16SdjYKdteRkNLIJy/view?usp=shari
 6. Enter the updation time interval 
 \
 (select value > 5 because the API key limits the request rate under 60requests/min and 1000requests/month)
-\
 7. The temperature and humidity columns will automatically update till the script is force closed with a keyboard inturupt or if the process is terminated.
