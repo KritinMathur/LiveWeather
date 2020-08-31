@@ -30,13 +30,13 @@ pip install requests
 ```
 ### Installation
 #### Method 1 :-
-1. Clone the repository
+1. Clone or Download the repository
 ```sh
 git clone https://github.com/KritinMathur/LiveWeather.git
 ```
 
 #### Method 2 :-
-1. Clone the repository
+1. Clone or Download the repository
 ```sh
 git clone https://github.com/KritinMathur/LiveWeather.git
 ```
